@@ -1,0 +1,15 @@
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\Homework_47.csproj.AssemblyReference.cache
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\Homework_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\Homework_47.AssemblyInfoInputs.cache
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\Homework_47.AssemblyInfo.cs
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\Homework_47.csproj.CoreCompileInputs.cache
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\bin\Debug\net6.0\Homework_47.exe
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\bin\Debug\net6.0\Homework_47.deps.json
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\bin\Debug\net6.0\Homework_47.runtimeconfig.json
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\bin\Debug\net6.0\Homework_47.dll
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\bin\Debug\net6.0\Homework_47.pdb
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\Homework_47.dll
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\refint\Homework_47.dll
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\Homework_47.pdb
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\Homework_47.genruntimeconfig.cache
+C:\Users\Akreh\OneDrive\Рабочий стол\Учеба\Языки программирования\С#\Seminar030323\Homework_47\obj\Debug\net6.0\ref\Homework_47.dll
